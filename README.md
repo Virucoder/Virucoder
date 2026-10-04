@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a beginner programmer. <br>I'm currently leaning C# and C++ for gamedev. <br>I currently can work best with Java, JavaScript, React.
+<br>I am a beginner programmer. <br>I'm currently leaning C# and C++ for gamedev. <br>I currently can work best with Java, JavaScript, React. <br> I'm also working on learning pixelart.
 
 
 ## 🌐 Socials:
